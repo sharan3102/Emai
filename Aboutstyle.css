@@ -27,7 +27,7 @@ ul{
 li{
     padding: 0.8em 2em;
     display: block;
-    font-weight: 400;
+    font-weight: 400;  
 }
 li:hover{
     background-color:#76D8B5;
